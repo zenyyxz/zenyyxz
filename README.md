@@ -2,6 +2,8 @@
 
 💻 Ethical Hacker | 🕸️ Web Developer | 🎯 Bug Bounty Hunter | ⚡ Pen-Tester  
 
+![Profile Views](https://komarev.com/ghpvc/?username=zenyyxz&style=flat-square&color=blue)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -22,14 +24,20 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zenyyxz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenyyxz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenyyxz&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenyyxz&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=zenyyxz&theme=radical&hide_border=true)  
 
 ---
 
 ## 🚀 Projects
 - 🔥 [ShellForge](https://github.com/zenyyxz/ShellForge) – Custom payload generator for ethical hacking  
 - 🛡️ [Next Project Name](#) – Coming soon  
+
+---
+
+## 📈 Activity
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenyyxz&theme=radical&hide_border=true)
 
 ---
 
