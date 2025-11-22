@@ -42,4 +42,4 @@
 
 ## 📫 Connect With Me
 📧 Email: **lahirurashmika3434@gmail.com**  
-🌐 Portfolio: *lahirux.dev*  
+🌐 Portfolio: **lahirux.dev**  
