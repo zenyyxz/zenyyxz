@@ -24,8 +24,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenyyxz&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenyyxz&layout=compact&theme=radical&hide_border=true)  
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+![](./profile-summary-card-output/radical/3-stats.svg)
 
 ---
 
