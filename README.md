@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 - 🔥 [ShellForge](https://github.com/zenyyxz/ShellForge) – Custom payload generator for ethical hacking  
-- 🛡️ [Next Project Name](#) – V-Nexus  
+- 🛡️ [V-Nexus](https://github.com/zenyyxz/V-nexus.git) – The ultimate V2Ray/Xray client for Windows. Fast, stable, and secure. 
 
 ---
 
