@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 - 🔥 [ShellForge](https://github.com/zenyyxz/ShellForge) – Custom payload generator for ethical hacking  
-- 🛡️ [Next Project Name](#) – Coming soon  
+- 🛡️ [Next Project Name](#) – V-Nexus  
 
 ---
 
