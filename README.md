@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Lahiru Rashmika
+#  Hi, I'm Lahiru Rashmika
 
-💻 Ethical Hacker | 🕸️ Web Developer | 🎯 Bug Bounty Hunter | ⚡ Pen-Tester  
+ Ethical Hacker |  Web Developer |  Bug Bounty Hunter |  Pen-Tester  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zenyyxz&style=flat-square&color=blue)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -23,24 +23,24 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![](./profile-summary-card-output/radical/0-profile-details.svg)
 ![](./profile-summary-card-output/radical/2-most-commit-language.svg)
 ![](./profile-summary-card-output/radical/3-stats.svg)
 
 ---
 
-## 🚀 Projects
-- 🔥 [ShellForge](https://github.com/zenyyxz/ShellForge) – Custom payload generator for ethical hacking  
-- 🛡️ [V-Nexus](https://github.com/zenyyxz/V-nexus.git) – The ultimate V2Ray/Xray client for Windows. Fast, stable, and secure. 
+##  Projects
+-  [ShellForge](https://github.com/zenyyxz/ShellForge) – Custom payload generator for ethical hacking  
+-  [V-Nexus](https://github.com/zenyyxz/V-nexus.git) – The ultimate V2Ray/Xray client for Windows. Fast, stable, and secure. 
 
 ---
 
-## 📈 Activity
+##  Activity
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenyyxz&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
-📧 Email: **lahirurashmika3434@gmail.com**  
-🌐 Portfolio: **lahirux.dev**  
+##  Connect With Me
+ Email: **lahirurashmika3434@gmail.com**  
+ Portfolio: **lahirux.dev**  
