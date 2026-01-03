@@ -42,5 +42,5 @@
 ---
 
 ##  Connect With Me
- Email: **lahirurashmika3434@gmail.com**  
+ Email: **admin@lahirux.dev**  
  Portfolio: **lahirux.dev**  
